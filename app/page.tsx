@@ -30,7 +30,7 @@ export default function HomePage() {
         {/* Header */}
         <div className="text-center mb-8 sm:mb-10">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight">
-            Advanced Todo App
+            Advanced Todo App CodeNonstop
           </h1>
 
           <p className="text-slate-300 mt-3 text-sm sm:text-base lg:text-lg">
